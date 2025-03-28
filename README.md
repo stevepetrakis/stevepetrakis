@@ -20,4 +20,5 @@
 - Critical thinking
 
 # 📫 Contact me: 
-Email: stavrospetrakis2002@gmail.com , (https://www.linkedin.com/in/Σταύρος-Πετράκης)
+- 📫 Email: stavrospetrakis2002@gmail.com 
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/Σταύροε-Πετράκης-123456/)
