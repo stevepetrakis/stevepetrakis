@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hello there, I'm Stavros Petrakis 
 
-<!--
-**stevepetrakis/stevepetrakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at University of Crete
+💻 Passionate about Web Development and Data Managment
 
-Here are some ideas to get you started:
+🚀 Skills & Technologies:
+Languages: C#, C++, Java, Python, JavaScript
+Web Development: HTML, CSS, JavaScript, JSP, Servlets
+Networking: Sockets, micro_tcp (custom TCP protocol)
+Databases: MySQL, SQL
+Tools: Git, Linux, Bash, NetBeans, Tomcat, XAMPP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact me:
+📫 Email: stavrospetrakis2002@gmail.com
