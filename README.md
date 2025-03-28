@@ -1,19 +1,23 @@
-👋 Hello there, I'm Stavros Petrakis 
+# 👋 Hello there, I'm Stavros Petrakis 
+- 🎓 Computer Science Student at University of Crete
+- 🎓 Certificate of Pedagogical and Teaching Competence
+- 💻 Passionate about Web Development and Data Managment
 
-🎓 Computer Science Student at University of Crete
+# 🚀 Skills & Technologies:
+- Software Engineering: System Design, Database Management, Algorithms
+- Languages: C#, C++, Java, Python, JavaScript  
+- Web Development: HTML, CSS, JavaScript, JSP, Servlets
+- Networking: Sockets, micro_tcp (custom TCP protocol)
+- Databases: MySQL, SQL  
+- Tools: Git, Linux, Bash, NetBeans, Tomcat, XAMPP
+- Microsoft Office: Word, Excel, PowerPoint
 
-💻 Passionate about Web Development and Data Managment
+# 👤 Personal Skills:
+- Friendly, positive attitude
+- Teamwork & collaboration
+- Organizational & time management skills
+- Adaptable and dependable
+- Critical thinking
 
-🚀 Skills & Technologies:
-
-  Languages: C#, C++, Java, Python, JavaScript
-  
-  Web Development: HTML, CSS, JavaScript, JSP, Servlets
-  
-  Networking: Sockets, micro_tcp (custom TCP protocol)
-
-  Databases: MySQL, SQL
-  
-  Tools: Git, Linux, Bash, NetBeans, Tomcat, XAMPP
-
-📫 Contact me: Email: stavrospetrakis2002@gmail.com
+# 📫 Contact me: 
+Email: stavrospetrakis2002@gmail.com , (https://www.linkedin.com/in/Σταύρος-Πετράκης)
