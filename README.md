@@ -5,7 +5,7 @@
 
 # 🚀 Skills & Technologies:
 - Software Engineering: System Design, Database Management, Algorithms
-- Languages: C#, C++, Java, Python, JavaScript  
+- Languages: C++, Java, Python, JavaScript  
 - Web Development: HTML, CSS, JavaScript, JSP, Servlets
 - Networking: Sockets, micro_tcp (custom TCP protocol)
 - Databases: MySQL, SQL  
