@@ -5,15 +5,14 @@
 
 # 🚀 Skills & Technologies:
 - Software Engineering: System Design, Database Management, Algorithms
-- Languages: C++, Java, Python, JavaScript  
-- Web Development: HTML, CSS, JavaScript, JSP, Servlets
+- Languages: C++, Java, Python, JavaScript, TypeScript 
+- Web Development: HTML, CSS, JavaScript, JSP, Servlets, Next.js, Nest.js
 - Networking: Sockets, micro_tcp (custom TCP protocol)
 - Databases: MySQL, SQL  
-- Tools: Git, Linux, Bash, NetBeans, Tomcat, XAMPP
+- Tools: Git, Linux, Bash, NetBeans, Tomcat, XAMPP, Docker
 - Microsoft Office: Word, Excel, PowerPoint
 
 # 👤 Personal Skills:
-- Friendly, positive attitude
 - Teamwork & collaboration
 - Organizational & time management skills
 - Adaptable and dependable
